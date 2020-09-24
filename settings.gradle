@@ -1,0 +1,3 @@
+include ':videocache'
+include ':app'
+rootProject.name = "updownshortvideo"
